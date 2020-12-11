@@ -1,0 +1,26 @@
+---
+title: "StatPREP.org"
+description: |
+  Teaching Data-centric Statistics
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**We are revising our home pages for 2021**. Sorry for any inconvenience.
+
+Links to some favorite sites:
+
+- [Little Apps](https://statprep.github.io/LittleAppSite)
+- [Data Science in a Box](datascienceinabox.org) Mine Çetinkaya-Rundel
+- [*Statistics using Technology* (2/e)](StatPREP.github.io/Book-Stat-using-tech) by Kate Kozak
+- [*Compact Guide to Classical Inference*](https://dtkaplan.github.io/CompactInference/) by Daniel Kaplan
+- [Open Intro *Introduction to Modern Statistics*](https://www.openintro.org/book/ims/) by Mine Çetinkaya-Rundel and Johanna Hardin
+- [*Modern Dive*](moderndive.com): *Statistical Inference via Data Science*, by Chester Ismay and Albert Y Kim
+
+
+
+
+
