@@ -20,6 +20,8 @@ Links to some favorite sites:
 - [Open Intro *Introduction to Modern Statistics*](https://www.openintro.org/book/ims/) by Mine Çetinkaya-Rundel and Johanna Hardin
 - [*Modern Dive*](moderndive.com): *Statistical Inference via Data Science*, by Chester Ismay and Albert Y Kim
 
+something else
+
 
 
 
